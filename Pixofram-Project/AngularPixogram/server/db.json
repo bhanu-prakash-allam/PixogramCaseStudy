@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "u_name": "bhanu",
+      "u_password": "abcd",
+      "repeat_password": "abcd",
+      "u_email": "ambcd",
+      "u_mobileNumber": 9967
+    },
+    {
+      "id": 2,
+      "u_name": "saboor",
+      "u_password": "1234",
+      "repeat_password": "1234",
+      "u_email": "abc@gmail.com",
+      "u_mobileNumber": 9505408012
+    },
+    {
+      "id": 3,
+      "u_name": "prkash",
+      "u_password": "alla,",
+      "repeat_password": "allam",
+      "u_email": "prakashbhanu784@gmail.com",
+      "u_mobileNumber": 9505408012
+    },
+    {
+      "id": 4,
+      "u_name": "prkash",
+      "u_password": "alla,",
+      "repeat_password": "allam",
+      "u_email": "prakashbhanu784@gmail.com",
+      "u_mobileNumber": 9505408012
+    }
+  ],
+  "singlemedia": [
+    {
+      "u_title": "abcd",
+      "u_description": "Descrptiob",
+      "u_tags": "bhanuwadhiul",
+      "id": 1
+    },
+    {
+      "u_title": "image.url",
+      "u_description": "website",
+      "u_tags": "average",
+      "id": 2
+    }
+  ]
+}
